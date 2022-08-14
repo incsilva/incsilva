@@ -1,6 +1,6 @@
 ### Hi, I’m Alberi Silva
 
-- 💡 I'm in the last period of the "informática" technical course
+- 💡 I'm in the last period of the 'informática' technical course
 - 🌱 I’m currently learning JAVA and JavaScript
 - 🛠 I'm developing a System collaboratively
 
@@ -22,7 +22,7 @@
   <a href="https://instagram.com/inacio.alberi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/alberi.inacio02" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:snhrlbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alberi-inacio-da-silva-40aa71234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alberi-inácio-da-silva-40aa71234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
