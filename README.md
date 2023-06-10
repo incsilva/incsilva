@@ -1,8 +1,8 @@
 ### Hi, I’m Alberi Silva
 
-- 💡 I'm in the last period of the 'informática' technical course
-- 🌱 I’m currently learning JAVA and JavaScript
-- 🛠 I'm developing a System collaboratively
+- 💡 I'm in the first period of the bachelor's degree in Information Technology
+- 🌱 I’m currently learning Data Science and language Kotlyn
+- 🛠 I'm developing some freelance projects
 
 <div align="center">
   <a href="https://github.com/incsilva">
